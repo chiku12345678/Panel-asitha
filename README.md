@@ -1,8 +1,8 @@
 <div align="center">
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＡＳＩＴＨＡ+ＭＤ+V3+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
-<img src="https://ibb.co/YTh0JFFYimg]h" height="90" width="100%">
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=HASHANTH+ＭＤ+V3+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+<img src="https://i.ibb.co/hFympX4F/IMG-20250128-WA0239.jpg" height="90" width="100%">
 
 <p align="center">
 <a href="https://github.com/ASITHA-MD/BOT-NEW">
